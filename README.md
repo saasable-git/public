@@ -1,4 +1,3 @@
-# Saasable Public Documents
+# Saasable Wiki
 
-- [Application Status](application-status/status.md)
-- [Release Notes](release-notes/)
+[Please go to the Saasable Public Wiki](https://github.com/saasable-git/public/wiki/Saasable-Home)
